@@ -6,4 +6,4 @@ Evaluate_models_longer_texts.ipynb: clculate slor, fre, coherence score, perplex
 
 Order:
 
-SFT_Train > Reinforcement Learning >Evaluate_models_longer_texts
+Kopia_SFT_Train > Reinforcement Learning >Evaluate_models_longer_texts
