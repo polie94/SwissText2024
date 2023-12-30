@@ -1,4 +1,4 @@
-SFT_Train.ipynb: Fine-Tune GPT-2 
+Kopia_SFT_Train.ipynb: Fine-Tune GPT-2 
 
 Reinforcement Learning.ipynb: optimize models after SFT
 
